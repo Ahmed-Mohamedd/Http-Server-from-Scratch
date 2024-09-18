@@ -1,0 +1,23 @@
+C:\Users\Disney\AppData\Local\Temp\codecrafters-build-http-server-csharp\codecrafters-http-server.exe
+C:\Users\Disney\AppData\Local\Temp\codecrafters-build-http-server-csharp\codecrafters-http-server.deps.json
+C:\Users\Disney\AppData\Local\Temp\codecrafters-build-http-server-csharp\codecrafters-http-server.runtimeconfig.json
+C:\Users\Disney\AppData\Local\Temp\codecrafters-build-http-server-csharp\codecrafters-http-server.dll
+C:\Users\Disney\AppData\Local\Temp\codecrafters-build-http-server-csharp\codecrafters-http-server.pdb
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.AssemblyInfoInputs.cache
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.AssemblyInfo.cs
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.csproj.CoreCompileInputs.cache
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.dll
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\refint\codecrafters-http-server.dll
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.pdb
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.genruntimeconfig.cache
+E:\Back End\New folder\codecrafters-http-server-csharp~\obj\Release\net8.0\ref\codecrafters-http-server.dll
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.AssemblyInfoInputs.cache
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.AssemblyInfo.cs
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.csproj.CoreCompileInputs.cache
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.dll
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\refint\codecrafters-http-server.dll
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.pdb
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\codecrafters-http-server.genruntimeconfig.cache
+E:\Back End\Http Server From Scratch\codecrafters-http-server-csharp~\obj\Release\net8.0\ref\codecrafters-http-server.dll
